@@ -1,5 +1,4 @@
 # frostium.github.io
 
-Test stuff :)
-
-* YE *
+* I will learn some links or something
+* COPILOT STOP WATCHING ME
