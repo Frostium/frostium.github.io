@@ -1,2 +1,5 @@
 Video
-<video src="assets/videos/test.mp4" controls="controls" width="100%"></video>
+<video controls width="100%">
+  <source src="/assets/videos/test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
