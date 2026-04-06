@@ -17,7 +17,7 @@
 ## Gaming
 * <a href="https://www.youtube.com/@Frostium">Frostium Channel</a>
   * frostium27@gmail.com
- 
+* <a href="/library/video-test-1">Video Test</a>
 ## Misc
 * <a href="https://www.youtube.com/@frost-ghost">Frost Ghost Channel</a>
 
