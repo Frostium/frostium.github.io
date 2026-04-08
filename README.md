@@ -7,6 +7,7 @@
 #### Older Works
 * <a href="/library/Senior-Thesis-05-22-2024.pdf">Veritas Scholars Academy Senior Thesis: The Final Verdict</a>
 * <a href="/library/The-Mirror.pdf">The Mirror</a>
+* <a href="/library/the_red_plague.pdf">The Red Plague</a>
 * <a href="https://drive.google.com/drive/folders/150BviaNHyiOA-DCHFudfL5zZWMSRAAxq">Locked Library Archive Drive Link</a>
 
 ## Game Development
