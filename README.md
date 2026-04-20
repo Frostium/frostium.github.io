@@ -1,5 +1,5 @@
 # HOME
-## GAMES 💻
+## Games 💻
 #### Webpage links
 * <a href="https://squarezerodev.itch.io">Itch.io Page</a>
   <p>🎮 Featuring high quality web games. Warning: you might enjoy this.
@@ -16,7 +16,7 @@
   <p> ⛏️ Everyone wanted to be a youtube gamer, right? The dream didn't last, but at least I made some cool videos.</p>
   <p> Email: frostium27@gmail.com </p>
 
-## LIBRARY
+## Library 📖
 ### Older Works
 *This content was produced in middle school or high school. Quality varies.*
 ##### Academic 📚
@@ -28,8 +28,13 @@
   <p> A nearby russian ship releases a mysterious disease on the United States. A family and band of friends struggle to reach safety while the hoarde of angry zombies threatens to split them apart. The story will have you on the edge of your seat... while the artistic "style" will have you questioning the artist. (I was in middle school, give me a break)
 
 ##### Stories ✏️
+* <a href="/library/Revisited.pdf">Revisited</a> ⚰️
+  <p> A magician struggles with the terrible possibility of resurrecting his brother from the dead. I wrote this story for a composition class in high school.
+  <p> <i> Length: 1.1K words </i>
+
 * <a href="/library/The-Mirror.pdf">The Mirror</a> 🪞
   <p> What if the mirror was a portal to an alternate dimension...where something bad happened to you? The story's premise is good, but the execution gets convoluted. (Plot holes, anyone?) Enjoy at your own risk.
+  <p> <i> Length: 3.4K words </i>
 
 ##### Archive 🏦
 * <a href="https://drive.google.com/drive/folders/150BviaNHyiOA-DCHFudfL5zZWMSRAAxq">Locked Library Archive Drive Link</a> 🔒
