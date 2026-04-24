@@ -23,7 +23,7 @@
 * <a href="/library/Senior-Thesis-05-22-2024.pdf">Veritas Scholars Academy Senior Thesis: The Final Verdict</a> 🔥
   <p> You probably have an unbiblical perception of Hell, and you had no idea.... until now. My high school Senior Thesis delves deep into the Scriptural doctrine of Hell, arguing for the Annihilationist position. (Conditional Immortality) Some call it heresy... I call it history. Read at your own peril.
 
-* <a href="/psychology-2023-10-20"> Contributions to Modern Psychology </a> 🧠
+* <a href="/library/psychology-2023-10-20"> Contributions to Modern Psychology </a> 🧠
   <p> A paper focused on some historical contributions to the philosophy of psychology by several men. An entertaining and informative short read. Nice.
 
 ##### Comics 🦖
