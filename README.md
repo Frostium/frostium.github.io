@@ -17,6 +17,10 @@
   <p> Email: frostium27@gmail.com </p>
 
 ## Library 📖
+### My Substack
+* <a href="https://substack.com/@frostium" Substack Profile
+  <p> 🍃 Various writings. Hoping to have both stories and essays.
+  
 ### Older Works
 *This content was produced in middle school or high school. Quality varies.*
 ##### Academic 📚
