@@ -18,7 +18,7 @@
 
 ## Library 📖
 ### My Substack
-* <a href="https://substack.com/@frostium" Substack Profile
+* <a href="https://substack.com/@frostium">Substack Profile</a>
   <p> 🍃 Various writings. Hoping to have both stories and essays.
   
 ### Older Works
