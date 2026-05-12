@@ -25,6 +25,11 @@
 
 * <a href="/psychology-2023-10-20"> Contributions to Modern Psychology </a> 🧠
   <p> A paper focused on some historical contributions to the philosophy of psychology by several men. An entertaining and informative short read. Nice.
+##### Poetry 🌱
+* <a href="/library/pigamee-drone-poem">Pigamee Drone</a> 🪓
+  <p> I can't remember writing this and to be honest, I don't know what a "pigamee drone" is. But based on the art I found on the original page, its a giant pig person with four arms and two robot spider legs. Creativity points.
+* <a href="/library/hope-poem">Hope</a> ⛅
+  <p> I also can't remember writing this, but it makes me tear up. I love it.
 
 ##### Comics 🦖
 * <a href="/library/the_red_plague.pdf">The Red Plague</a> 🧪
@@ -38,6 +43,8 @@
 * <a href="/library/The-Mirror.pdf">The Mirror</a> 🪞
   <p> What if the mirror was a portal to an alternate dimension...where something bad happened to you? The story's premise is good, but the execution gets convoluted. (Plot holes, anyone?) Enjoy at your own risk.
   <p> <i> Length: 3.4K words </i>
+
+
 
 ##### Archive 🏦
 * <a href="https://drive.google.com/drive/folders/150BviaNHyiOA-DCHFudfL5zZWMSRAAxq">Locked Library Archive Drive Link</a> 🔒
