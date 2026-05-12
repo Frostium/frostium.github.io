@@ -17,13 +17,17 @@
   <p> Email: frostium27@gmail.com </p>
 
 ## Library 📖
+### My Substack
+* <a href="https://substack.com/@frostium">Substack Profile</a>
+  <p> 🍃 Various writings. Hoping to have both stories and essays.
+  
 ### Older Works
 *This content was produced in middle school or high school. Quality varies.*
 ##### Academic 📚
 * <a href="/library/Senior-Thesis-05-22-2024.pdf">Veritas Scholars Academy Senior Thesis: The Final Verdict</a> 🔥
   <p> You probably have an unbiblical perception of Hell, and you had no idea.... until now. My high school Senior Thesis delves deep into the Scriptural doctrine of Hell, arguing for the Annihilationist position. (Conditional Immortality) Some call it heresy... I call it history. Read at your own peril.
 
-* <a href="/psychology-2023-10-20"> Contributions to Modern Psychology </a> 🧠
+* <a href="/library/psychology-2023-10-20"> Contributions to Modern Psychology </a> 🧠
   <p> A paper focused on some historical contributions to the philosophy of psychology by several men. An entertaining and informative short read. Nice.
 ##### Poetry 🌱
 * <a href="/library/pigamee-drone-poem">Pigamee Drone</a> 🪓
@@ -57,3 +61,4 @@
 * <a href="https://www.youtube.com/@frost-ghost">Frost Ghost Channel</a>
   <p> 🎧 Don't you ever wish: If only there was a channel that combined chill vibes with the timeless words of Scripture!? Look no further, for it is here.
 
+.
